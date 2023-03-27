@@ -11,6 +11,7 @@
 			"location": {
 				"type": "AzureBlobStorageLocation",
 				"fileName": "alpha.csv",
+				"folderPath": "best",
 				"container": "test"
 			},
 			"columnDelimiter": ",",
