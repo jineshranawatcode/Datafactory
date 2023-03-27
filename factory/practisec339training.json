@@ -1,0 +1,9 @@
+{
+	"name": "practisec339training",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "acf5fa0d-074d-4444-8661-2376acfe1a2f",
+		"tenantId": "6bfea97f-d038-4c9b-aca7-60b782f3214e"
+	}
+}
